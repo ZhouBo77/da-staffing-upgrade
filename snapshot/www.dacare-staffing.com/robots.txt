@@ -1,0 +1,41 @@
+sitemap: http://cdn.attracta.com/sitemap/67524.xml.gz
+
+User-agent: *
+Allow: /10n9r
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Allow:
+Sitemap: https://dacare-staffing.com/10n9r/sitemap.xml
+
+User-agent: *
+Allow: /attendance-allowance-wjmn
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Allow:
+Sitemap: https://dacare-staffing.com/attendance-allowance-wjmn/sitemap.xml
+
+User-agent: *
+Allow: /i7nyvrue
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Allow:
+Sitemap: https://dacare-staffing.com/i7nyvrue/sitemap.xml
+
+User-agent: *
+Allow: /usda-loan-fko
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Allow:
+Sitemap: https://dacare-staffing.com/usda-loan-fko/sitemap.xml
+
+User-agent: *
+Allow: /sfw2el
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Allow:
+Sitemap: https://dacare-staffing.com/sfw2el/sitemap.xml
